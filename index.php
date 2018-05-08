@@ -1,3 +1,3 @@
 <?php
-echo "SongSong oss devops workshop is great & nice！！！!";
+echo "SongSong oss devops workshop is  nice！！!";
 ?>
